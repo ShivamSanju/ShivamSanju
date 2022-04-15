@@ -1,4 +1,4 @@
-![image alt >](./abc.png)
+![image alt <](./abc.png)
 
 - 🌱 I’m currently learning MERN stack
 - 💬 Ask me about automation, bdd, python
