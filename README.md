@@ -1,4 +1,4 @@
-![banner](./bannerdp.png)
+![banner](./abc.png)
 
 - 🌱 I’m currently learning MERN stack
 - 💬 Ask me about automation, bdd, python
