@@ -1,6 +1,6 @@
 <img align="left" src="abc.png" alt="Image" width="300" height="300">
 
-<br>
+<br><br><br>
 🌱 I’m currently learning MERN stack 
 <br><br>
 💬 Ask me about automation, bdd, python 
