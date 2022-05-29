@@ -13,6 +13,7 @@ I love experimenting with new technologies and playing around with code. You can
 <span><img src="fastapi-white.svg" alt="FastAPI" width="50"> </span>
 <span><img src="express.svg" alt="ExpressJs" height="50"> </span>
 <span><img src="node.svg" alt="NodeJs" height="50"> </span>
+<span><img src="redis.svg" alt="Redis" height="50"> </span>
 <span><img src="typescript.svg" alt="TypeScript" width="50"> </span>
 <span><img src="react.svg" alt="ReactJs" width="50"> </span>
 <span><img src="mongodb.svg" alt="MongoDb" height="50"> </span>
