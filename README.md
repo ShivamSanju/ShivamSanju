@@ -21,6 +21,11 @@ I love experimenting with new technologies and playing around with code. You can
 <br>
 
 ## GitHub Stats:
-![](https://raw.githubusercontent.com/shivamsanju/githubstats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/shivamsanju/githubstats/master/generated/languages.svg#gh-dark-mode-only)
 
+<div style='display:flex; width:100%;'>
+<img align='left' width="330em" src="https://github-readme-stats.vercel.app/api?username=shivamsanju&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="330em"  src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsanju&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+<img align='right' width="277em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsanju&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=tokyonight&exclude_repo=california-houses">
+
+</div>
