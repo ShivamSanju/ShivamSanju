@@ -1,7 +1,7 @@
 ### Hi, I am a Software Engineer from Bangalore, India. 
 
 
-I love experimenting with new technologies and playing around with code. You can check out some of my projects and experiments on my GitHub. If you want to discuss anything about web technologies or software development, feel free to connect with me. How to reach me? Drop me a message on my <a href="https://www.linkedin.com/in/shivam-s-27a406208/">LinkedIn</a>. Apart from all this stuff i love travelling and motorcycles.
+Connect with me on my <a href="https://www.linkedin.com/in/shivam-s-27a406208/">LinkedIn</a>
 
 <br>
 
@@ -27,8 +27,5 @@ I love experimenting with new technologies and playing around with code. You can
   </p>
 <p align='center'>
 <img width="500em"  align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsanju&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-  </p>
-<p align='center'>
-   <img  width="500em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsanju&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=tokyonight&exclude_repo=california-houses">
   </p>
 
