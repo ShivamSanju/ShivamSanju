@@ -1,31 +1,55 @@
-### Hi, I am a Software Engineer from Bangalore, India. 
+<div align="center">
+  
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+ 
+<a href="https://www.linkedin.com/in/shivam-s-27a406208" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<br />
+<br />
+ 
+I'm a Full Stack Developer with 1.5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+<br />
+
+I'm currently based in **[Bangalore, India.](https://www.google.com/maps/place/Bengaluru,+Karnataka/data=!4m2!3m1!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0?sa=X&ved=2ahUKEwjfut-myMn7AhWw1jgGHS-ICVYQ8gF6BAgPEAE)**
+
+<br />
+
+<h2> Tech Stack </h2>
+<img src="python.svg" title="Python" width="30">&ensp;
+<img src="javascript.svg" title="JavaScript" width="30">&ensp;
+<img src="fastapi-white.svg" title="FastAPI" width="30">&ensp;
+<img src="express.svg" title="ExpressJs" height="30"> &ensp;
+<img src="node.svg" title="NodeJs" height="30">&ensp;
+<img src="redis.svg" title="Redis" height="30">&ensp;
+<img src="typescript.svg" title="TypeScript" width="30">&ensp;
+<img src="react.svg" title="ReactJs" width="30">&ensp;
+<img src="mongodb.svg" title="MongoDb" height="30">&ensp;
+<img src="postgresql.svg" title="Postgres" width="30">&ensp;
+<img src="cucumber.svg" title="Cucumber" width="30">&ensp;
+  
+<br />
+<br />
+
+<h2> Links </h2>
+
+ <a href="https://medium.com/@shvmsanju/why-you-should-start-using-fastapi-instead-of-flask-e359cb4f0470" target="_blank">
+   Why you should start using FastAPI instead of Flask
+ </a>
+  
+  <br />
+  <br />
+  
+ <a href="https://www.npmjs.com/package/@shvmsnju/nx" target="_blank">
+   NX - Single session manager for Next Auth
+ </a> 
+  
+<br />
+  
+  
+</div>
 
 
-Connect with me on my <a href="https://www.linkedin.com/in/shivam-s-27a406208/">LinkedIn</a>
 
-<br>
-
-## Tech Stack:
-<span><img src="python.svg" title="Python" width="50"> </span>
-<span><img src="javascript.svg" title="JavaScript" width="50"> </span>
-<span><img src="fastapi-white.svg" title="FastAPI" width="50"> </span>
-<span><img src="express.svg" title="ExpressJs" height="50"> </span>
-<span><img src="node.svg" title="NodeJs" height="50"> </span>
-<span><img src="redis.svg" title="Redis" height="50"> </span>
-<span><img src="typescript.svg" title="TypeScript" width="50"> </span>
-<span><img src="react.svg" title="ReactJs" width="50"> </span>
-<span><img src="mongodb.svg" title="MongoDb" height="50"> </span>
-<span><img src="postgresql.svg" title="Postgres" width="50"> </span>
-<span><img src="cucumber.svg" title="Cucumber" width="50"> </span>
-
-<br>
-
-## GitHub Stats:
-
-<p align='center'>
-<img width="500em" align='center' src="https://github-readme-stats.vercel.app/api?username=shivamsanju&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-  </p>
-<p align='center'>
-<img width="500em"  align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsanju&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-  </p>
 
