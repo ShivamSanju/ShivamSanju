@@ -11,8 +11,9 @@
  
 I'm a Full Stack Developer with 1.5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
+<br />
 
-I'm currently based in **[Bangalore, India.](https://www.google.com/maps/place/Bengaluru,+Karnataka/data=!4m2!3m1!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0?sa=X&ved=2ahUKEwjfut-myMn7AhWw1jgGHS-ICVYQ8gF6BAgPEAE)**
+📍 I'm currently based in **[Bangalore, India.](https://www.google.com/maps/place/Bengaluru,+Karnataka/data=!4m2!3m1!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0?sa=X&ved=2ahUKEwjfut-myMn7AhWw1jgGHS-ICVYQ8gF6BAgPEAE)**
 
 <br />
 
@@ -35,14 +36,14 @@ I'm currently based in **[Bangalore, India.](https://www.google.com/maps/place/B
 <h2> Links </h2>
 
  <a href="https://medium.com/@shvmsanju/why-you-should-start-using-fastapi-instead-of-flask-e359cb4f0470" target="_blank">
-   Why you should start using FastAPI instead of Flask
+   📝 &ensp; Why you should start using FastAPI instead of Flask 
  </a>
   
   <br />
   <br />
   
  <a href="https://www.npmjs.com/package/@shvmsnju/nx" target="_blank">
-   NX - Single session manager for Next Auth
+  📦 &ensp; NX - Single session manager for Next Auth 
  </a> 
   
 <br />
