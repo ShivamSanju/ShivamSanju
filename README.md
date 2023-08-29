@@ -20,6 +20,8 @@ I'm a Full Stack Developer with 1.5+ years of hands-on experience designing, dev
 <h2> Tech Stack </h2>
 <img src="python.svg" title="Python" width="30">&ensp;
 <img src="javascript.svg" title="JavaScript" width="30">&ensp;
+<img src="java.svg" title="Java" width="30">&ensp;
+<img src="go.svg" title="Golang" height="30">&ensp;
 <img src="fastapi-white.svg" title="FastAPI" width="30">&ensp;
 <img src="express.svg" title="ExpressJs" height="30"> &ensp;
 <img src="node.svg" title="NodeJs" height="30">&ensp;
