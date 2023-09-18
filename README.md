@@ -9,7 +9,7 @@
 <br />
 <br />
  
-I'm a Full Stack Developer with 1.5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I am a senior software engineer with 2.5 years of experience in a product-based B2B company. My expertise includes system design and development of frontend and backend applications using a diverse stack, such as ReactJS, NextJS, ExpressJS, NodeJS, Java, and Python. I am passionate about creating robust and efficient solutions to meet business needs, and I thrive in collaborative environments.
 <br />
 <br />
 
@@ -18,20 +18,18 @@ I'm a Full Stack Developer with 1.5+ years of hands-on experience designing, dev
 <br />
 
 <h2> Tech Stack </h2>
-<img src="python.svg" title="Python" width="30">&ensp;
 <img src="javascript.svg" title="JavaScript" width="30">&ensp;
 <img src="java.svg" title="Java" width="30">&ensp;
 <img src="go.svg" title="Golang" height="30">&ensp;
+<img src="typescript.svg" title="TypeScript" width="30">&ensp;
+<img src="python.svg" title="Python" width="30">&ensp;
 <img src="fastapi-white.svg" title="FastAPI" width="30">&ensp;
 <img src="express.svg" title="ExpressJs" height="30"> &ensp;
 <img src="node.svg" title="NodeJs" height="30">&ensp;
 <img src="redis.svg" title="Redis" height="30">&ensp;
-<img src="typescript.svg" title="TypeScript" width="30">&ensp;
 <img src="react.svg" title="ReactJs" width="30">&ensp;
-<img src="mongodb.svg" title="MongoDb" height="30">&ensp;
 <img src="postgresql.svg" title="Postgres" width="30">&ensp;
-<img src="cucumber.svg" title="Cucumber" width="30">&ensp;
-  
+<img src="mongodb.svg" title="MongoDb" height="30">&ensp;
 <br />
 <br />
 
