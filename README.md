@@ -2,14 +2,14 @@
   
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
  
-<a href="https://www.linkedin.com/in/shivam-s-27a406208" target="_blank">
+<a href="https://www.linkedin.com/in/shvmsnju" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <br />
 <br />
  
-I am a senior software engineer with 2.5 years of experience in a product-based B2B company. My expertise includes system design and development of frontend and backend applications using a diverse stack, such as ReactJS, NextJS, ExpressJS, NodeJS, Java, and Python. I am passionate about creating robust and efficient solutions to meet business needs, and I thrive in collaborative environments.
+👋 Hi there! I’m a passionate Software Engineer with a love for creating robust and efficient solutions.
 <br />
 <br />
 
@@ -18,8 +18,8 @@ I am a senior software engineer with 2.5 years of experience in a product-based 
 <br />
 
 <h2> Tech Stack </h2>
-<img src="javascript.svg" title="JavaScript" width="30">&ensp;
 <img src="java.svg" title="Java" width="30">&ensp;
+<img src="javascript.svg" title="JavaScript" width="30">&ensp;
 <img src="go.svg" title="Golang" height="30">&ensp;
 <img src="typescript.svg" title="TypeScript" width="30">&ensp;
 <img src="python.svg" title="Python" width="30">&ensp;
