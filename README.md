@@ -9,7 +9,7 @@
 <br />
 <br />
  
-👋 Hi there! I’m a passionate Software Engineer with a love for creating robust and efficient solutions.
+👨‍💻 I’m a passionate Software Engineer with a love for creating robust and efficient solutions.
 <br />
 <br />
 
