@@ -1,56 +1,38 @@
-<div align="center">
-  
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
- 
+## <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="50" height="50"/> Hi There, I'm [Shivam Sanju](https://shvmsnju.vercel.app)
+I'm a **Software Engineer** from Bangalore,India.
+
+## 📧 Connect with me
+
 <a href="https://www.linkedin.com/in/shvmsnju" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-  
-<br />
-<br />
- 
-👨‍💻 I’m a passionate Software Engineer with a love for creating robust and efficient solutions.
-<br />
-<br />
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:shvmsanju@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-📍 I'm currently based in **[Bangalore, India.](https://www.google.com/maps/place/Bengaluru,+Karnataka/data=!4m2!3m1!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0?sa=X&ved=2ahUKEwjfut-myMn7AhWw1jgGHS-ICVYQ8gF6BAgPEAE)**
+## 💻 Tech Stack
 
-<br />
+**Programming Languages**
 
-<h2> Tech Stack </h2>
-<img src="java.svg" title="Java" width="30">&ensp;
-<img src="javascript.svg" title="JavaScript" width="30">&ensp;
-<img src="go.svg" title="Golang" height="30">&ensp;
-<img src="typescript.svg" title="TypeScript" width="30">&ensp;
-<img src="python.svg" title="Python" width="30">&ensp;
-<img src="fastapi-white.svg" title="FastAPI" width="30">&ensp;
-<img src="express.svg" title="ExpressJs" height="30"> &ensp;
-<img src="node.svg" title="NodeJs" height="30">&ensp;
-<img src="redis.svg" title="Redis" height="30">&ensp;
-<img src="react.svg" title="ReactJs" width="30">&ensp;
-<img src="postgresql.svg" title="Postgres" width="30">&ensp;
-<img src="mongodb.svg" title="MongoDb" height="30">&ensp;
-<br />
-<br />
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|
+|--|--|--|--|--|
 
-<h2> Links </h2>
+**Libraries and Frameworks**
 
- <a href="https://medium.com/@shvmsanju/why-you-should-start-using-fastapi-instead-of-flask-e359cb4f0470" target="_blank">
-   📝 &ensp; Why you should start using FastAPI instead of Flask 
- </a>
-  
-  <br />
-  <br />
-  
- <a href="https://www.npmjs.com/package/@shvmsnju/nx" target="_blank">
-  📦 &ensp; NX - Single session manager for Next Auth 
- </a> 
-  
-<br />
-  
-  
-</div>
+<img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">|<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">
+|--|--|--|--|--|
 
+**Databases**
 
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="Redis" alt="Redis" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png">
+|--|--|--|
 
+**Infrastructure**
 
+<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
+|--|--|--|--|
+
+## 📰 Blog Posts
+- [Why you should start using FastAPI instead of Flask](https://medium.com/@shvmsanju/why-you-should-start-using-fastapi-instead-of-flask-e359cb4f0470)
+- [NX - Single session manager for Next Auth](https://www.npmjs.com/package/@shvmsnju/nx)
