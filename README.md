@@ -1,7 +1,4 @@
 ## <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="50" height="50"/> Hi There, I'm [Shivam Sanju](https://shvmsnju.vercel.app)
-I'm a **Software Engineer** from Bangalore,India.
-
-## 📧 Connect with me
 
 <a href="https://www.linkedin.com/in/shvmsnju" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -11,7 +8,10 @@ I'm a **Software Engineer** from Bangalore,India.
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-## 💻 Tech Stack
+
+<br/><br/>
+
+## Tech Stack
 
 **Programming Languages**
 
@@ -33,6 +33,8 @@ I'm a **Software Engineer** from Bangalore,India.
 <img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
 |--|--|--|--|
 
-## 📰 Blog Posts
+<br/>
+
+## Blog Posts
 - [Why you should start using FastAPI instead of Flask](https://medium.com/@shvmsanju/why-you-should-start-using-fastapi-instead-of-flask-e359cb4f0470)
 - [NX - Single session manager for Next Auth](https://www.npmjs.com/package/@shvmsnju/nx)
